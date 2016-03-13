@@ -37,6 +37,7 @@ public class Methods {
 		String favBook = sc.nextLine();
 		System.out.println("Your favorite book is " + favBook + ".");
 	}
+	
 	public static void printGame() { System.out.println("World of Warcraft"); }
 	public static void printLanguage() { System.out.println("Java"); }
 	public static void printGrade() { System.out.println("100"); }
